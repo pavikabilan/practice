@@ -1,32 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@pavikabilan 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-pavikabilan
-/
-pavi
-0
-00
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
-pavi/AAPYTHON task.py / 
-@pavikabilan pavikabilan Update AAPYTHON task.py
-bbd1de8 15 days ago
-82 lines (61 sloc)  1.69 KB
-  
-Code navigation is available!
-Navigate your code with ease. Click on function and method calls to jump to their definitions or references in the same repository. Learn more
-
-You're using code navigation to jump to definitions or references.
-Learn more or give us feedback
 # prime numbers
 
 
